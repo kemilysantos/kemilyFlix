@@ -1,8 +1,6 @@
 import React from 'react';
 
-
 import { VideoContainer, ResponsiveIframe } from './style';
-
 
 function YouTubeIframeResponsive({ youtubeID }) {
   return (
